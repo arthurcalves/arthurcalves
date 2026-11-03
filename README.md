@@ -28,9 +28,7 @@ Busco oportunidades para aprender, ganhar experiência e crescer na área de dad
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurcalves&theme=radical" height="180" alt="Estatísticas de contribuições no GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurcalves&theme=radical" height="180" alt="Distribuição das linguagens nos repositórios" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&custom_title=Most%20used%20languages%20%E2%80%8B%E2%80%8B%28last%207%20days%29&langs_count=14&display_format=percent&theme=vue-dark)](https://wakatime.com/@alan)
 
 ---
