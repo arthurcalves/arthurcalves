@@ -28,6 +28,7 @@ Busco oportunidades para aprender, ganhar experiência e crescer na área de dad
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&custom_title=Most%20used%20languages%20%E2%80%8B%E2%80%8B%28last%207%20days%29&langs_count=14&display_format=percent&theme=vue-dark)](https://wakatime.com/@alan)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=arthurcalves&rank_icon=github&custom_title=My%20GitHub%20statistics%20&show_icons=true&include_all_commits=true&theme=vue-dark) 
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=arthurcalves&layout=compact&theme=vue-dark)](https://github.com/arthurcalves)
 
 ---
