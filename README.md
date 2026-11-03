@@ -1,6 +1,4 @@
-
 <div>
-
 # 👩🏻‍💻 Olá, eu sou Arthur! 👋
 
 Sou técnico em Informática e estudante de Análise de Dados e Inteligência Artificial.
